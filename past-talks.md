@@ -1,7 +1,3 @@
 # Talks I've Given
 
-Talk Title (Conference Name)
-
-[video](http://example.com), [slides](http://example.com)
-
-Abstract or summary of your talk
+Only the future concerns me here; I shall not partake on the nostalgia of my past talks.
